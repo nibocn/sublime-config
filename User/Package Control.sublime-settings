@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
+		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements"
 	]
